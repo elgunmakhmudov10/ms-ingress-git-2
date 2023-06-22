@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class Car {
+public class Car {
+    String name;
+    String color;
 }
